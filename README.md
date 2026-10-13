@@ -104,9 +104,6 @@ The initial state contains only the root directory.
 
 ---
 
-## My Contribution
-
-My main responsibility was the **search and allocation portion of `simplefs_adder.c`**.
 
 ### Implemented
 
