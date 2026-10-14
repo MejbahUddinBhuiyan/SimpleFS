@@ -1,0 +1,26 @@
+# Compiled executables
+simplefs_builder
+simplefs_adder
+
+# Generated filesystem image
+disk.img
+
+# Backup source files
+*_backup.c
+
+# Temporary/generated test files
+big*.dat
+e*.txt
+two.dat
+three.dat
+two_block.dat
+three_block.dat
+max.dat
+maxfile.dat
+too_big.dat
+empty.txt
+bad.img
+
+# Editor / OS files
+.vscode/
+.DS_Store
